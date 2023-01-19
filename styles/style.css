@@ -1,0 +1,51 @@
+h1 {
+  font-size: 60px;
+  text-align: center; 
+  font-family: 'Pacifico' /* шрифт */
+}
+
+
+p, li {
+  font-size: 18px;
+  line-height: normal;
+  letter-spacing: 1px;
+}
+
+#ppp {
+  font-size: 36px;
+  color: #A4E1F8;
+  text-align: center;
+  text-shadow: 1px 1px 1px black
+}
+
+html {
+  font-size: 18px; /* px значит 'пиксели': базовый шрифт будет 18 пикселей в высоту  */
+}
+
+html {
+  background-color: #A4E1F8;
+}
+
+#img1 {
+	width: 600px
+}	
+	
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+#h1-2 {
+	font-size: 30px
+}
+
+#p-2 {
+  font-size: 30px;
+  text-align: center; 
+  margin: 0 auto;
+  font-family: 'Pacifico'
+}
+	
